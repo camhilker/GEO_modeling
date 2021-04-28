@@ -1,0 +1,101 @@
+Rank	Gene_name	Entrez_ID	RF_imp_value	KEGG_ID	Pathway
+1	TNF receptor superfamily member 10b(TNFRSF10B)	8795	0.026471	5164	Influenza A
+2	ferredoxin reductase(FDXR)	2232	0.012465	N/A	N/A
+3	BCL2 binding component 3(BBC3)	27113	0.012395	5210	Colorectal cancer
+4	interleukin 11 receptor subunit alpha(IL11RA)	3590	0.011759	4640	Hematopoietic cell lineage
+5	F-box and WD repeat domain containing 4(FBXW4)	6468	0.010241	5418	Fluid shear stress and atherosclerosis
+6	"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta(PIK3CD)"	5293	0.009363	N/A	N/A
+7	transformer 2 beta homolog (Drosophila)(TRA2B)	6434	0.009128	3040	Spliceosome
+8	F-box protein 44(FBXO44)	93611	0.00884	N/A	N/A
+9	sterol carrier protein 2(SCP2)	6342	0.008764	4146	Peroxisome
+10	hydroxysteroid 17-beta dehydrogenase 11(HSD17B11)	51170	0.008066	N/A	N/A
+11	MAM domain containing 4(MAMDC4)	158056	0.007817	N/A	N/A
+12	protein kinase D2(PRKD2)	25865	0.007335	4925	Aldosterone synthesis and secretion
+13	ribosomal protein S27 like(RPS27L)	51065	0.006934	5171	Coronavirus disease - COVID-19
+14	neuroblastoma breakpoint family member 1(NBPF1)	55672	0.006794	N/A	N/A
+15	RAD21 cohesin complex component(RAD21)	5885	0.006664	4110	Cell cycle
+16	small nuclear ribonucleoprotein U1 subunit 70(SNRNP70)	6625	0.006661	3040	Spliceosome
+17	ARP6 actin-related protein 6 homolog(ACTR6)	64431	0.006469	N/A	N/A
+18	DEAD-box helicase 23(DDX23)	9416	0.006442	3040	Spliceosome
+19	GRIP1 associated protein 1(GRIPAP1)	56850	0.006297	N/A	N/A
+20	charged multivesicular body protein 2B(CHMP2B)	25978	0.005789	5022	Pathways of neurodegeneration - multiple diseases
+21	COMM domain containing 10(COMMD10)	51397	0.005752	N/A	N/A
+22	DNA methyltransferase 1 associated protein 1(DMAP1)	55929	0.005185	N/A	N/A
+23	translocase of outer mitochondrial membrane 40(TOMM40)	10452	0.004942	5022	Pathways of neurodegeneration - multiple diseases
+24	ras homolog family member T2(RHOT2)	89941	0.004852	4137	Mitophagy - animal
+25	coronin 6(CORO6)	84940	0.004808	N/A	N/A
+26	testis expressed 261(TEX261)	113419	0.004742	N/A	N/A
+27	ATP binding cassette subfamily F member 1(ABCF1)	23	0.004702	N/A	N/A
+28	alkB homolog 6(ALKBH6)	84964	0.004652	N/A	N/A
+29	"terminal uridylyl transferase 1, U6 snRNA-specific(TUT1)"	64852	0.00458	N/A	N/A
+30	solute carrier family 25 member 28(SLC25A28)	81894	0.004566	N/A	N/A
+31	cytohesin 1(CYTH1)	9267	0.004562	5132	Salmonella infection
+32	"transcription factor A, mitochondrial(TFAM)"	7019	0.004537	5016	Huntington disease
+33	Wnt family member 10B(WNT10B)	7480	0.004532	5226	Gastric cancer
+34	signal recognition particle 9(SRP9)	6726	0.004513	3060	Protein export
+35	protein phosphatase 1 regulatory inhibitor subunit 11(PPP1R11)	6992	0.00447	N/A	N/A
+36	pre-mRNA processing factor 8(PRPF8)	10594	0.004304	3040	Spliceosome
+37	TNF alpha induced protein 8 like 2(TNFAIP8L2)	79626	0.004264	N/A	N/A
+38	bromodomain containing 9(BRD9)	65980	0.00419	N/A	N/A
+39	mitochondrial ribosomal protein L43(MRPL43)	84545	0.003968	N/A	N/A
+40	zinc finger and BTB domain containing 17(ZBTB17)	7709	0.003906	5222	Small cell lung cancer
+41	mitochondrial ribosomal protein S6(MRPS6)	64968	0.003839	3010	Ribosome
+42	hippocalcin like 1(HPCAL1)	3241	0.003797	N/A	N/A
+43	ubiquitin conjugating enzyme E2 B(UBE2B)	7320	0.003722	4120	Ubiquitin mediated proteolysis
+44	caspase activity and apoptosis inhibitor 1(CAAP1)	79886	0.00367	N/A	N/A
+45	dachsous cadherin-related 1(DCHS1)	8642	0.003626	4392	Hippo signaling pathway - multiple species
+46	amyloid beta precursor protein binding family B member 1(APBB1)	322	0.003615	5010	Alzheimer disease
+47	small glutamine rich tetratricopeptide repeat containing alpha(SGTA)	6449	0.003499	N/A	N/A
+48	programmed cell death 10(PDCD10)	11235	0.003466	N/A	N/A
+49	regulator of G-protein signaling 14(RGS14)	10636	0.003311	4015	Rap1 signaling pathway
+50	fibroblast growth factor receptor-like 1(FGFRL1)	53834	0.003295	N/A	N/A
+51	flotillin 2(FLOT2)	2319	0.003267	4910	Insulin signaling pathway
+52	transmembrane protein 156(TMEM156)	80008	0.00326	N/A	N/A
+53	ATPase Na+/K+ transporting subunit alpha 4(ATP1A4)	480	0.003255	4978	Mineral absorption
+54	ring finger protein 40(RNF40)	9810	0.003196	N/A	N/A
+55	ring finger protein 126(RNF126)	55658	0.003092	N/A	N/A
+56	"XPC complex subunit, DNA damage recognition and repair factor(XPC)"	7508	0.003083	3420	Nucleotide excision repair
+57	ARP2 actin related protein 2 homolog(ACTR2)	10097	0.003064	5135	Yersinia infection
+58	HECT domain E3 ubiquitin protein ligase 3(HECTD3)	79654	0.003007	N/A	N/A
+59	pescadillo ribosomal biogenesis factor 1(PES1)	23481	0.002995	N/A	N/A
+60	karyopherin subunit alpha 3(KPNA3)	3839	0.002972	5132	Salmonella infection
+61	GTP binding protein 6 (putative)(GTPBP6)	8225	0.002949	N/A	N/A
+62	"microtubule associated monooxygenase, calponin and LIM domain containing 1(MICAL1)"	64780	0.002876	N/A	N/A
+63	ring finger protein 31(RNF31)	55072	0.002864	5131	Shigellosis
+64	uridine-cytidine kinase 1(UCK1)	83549	0.002842	1100	Metabolic pathways
+65	Yip1 domain family member 4(YIPF4)	84272	0.002748	N/A	N/A
+66	cell division cycle 25B(CDC25B)	994	0.002722	5206	MicroRNAs in cancer
+67	acyl-CoA oxidase 1(ACOX1)	51	0.002694	4146	Peroxisome
+68	"OS9, endoplasmic reticulum lectin(OS9)"	10956	0.002649	4141	Protein processing in endoplasmic reticulum
+69	zinc finger protein 574(ZNF574)	64763	0.002646	N/A	N/A
+70	mitochondrial elongation factor 1(MIEF1)	54471	0.002637	N/A	N/A
+71	immediate early response 5(IER5)	51278	0.002606	N/A	N/A
+72	HERPUD family member 2(HERPUD2)	64224	0.002586	N/A	N/A
+73	formin like 1(FMNL1)	752	0.002579	N/A	N/A
+74	peroxisomal biogenesis factor 26(PEX26)	55670	0.002552	4146	Peroxisome
+75	calmodulin 2(CALM2)	805	0.002507	5418	Fluid shear stress and atherosclerosis
+76	leukocyte receptor cluster member 8(LENG8)	114823	0.002501	N/A	N/A
+77	"protein phosphatase, Mg2+/Mn2+ dependent 1M(PPM1M)"	132160	0.002408	N/A	N/A
+78	fasciculation and elongation protein zeta 2(FEZ2)	9637	0.002355	N/A	N/A
+79	family with sequence similarity 103 member A1(FAM103A1)	83640	0.002325	N/A	N/A
+80	transforming growth factor beta regulator 4(TBRG4)	9238	0.002324	N/A	N/A
+81	"ALG2, alpha-1,3/1,6-mannosyltransferase(ALG2)"	85365	0.002321	1100	Metabolic pathways
+82	WW domain binding protein 1(WBP1)	23559	0.002275	N/A	N/A
+83	PQ loop repeat containing 2(PQLC2)	54896	0.002251	N/A	N/A
+84	"ATP synthase, H+ transporting, mitochondrial Fo complex subunit F6(ATP5J)"	522	0.00206	5415	Diabetic cardiomyopathy
+85	small ubiquitin-like modifier 1(SUMO1)	7341	0.002013	5418	Fluid shear stress and atherosclerosis
+86	negative regulator of ubiquitin like proteins 1(NUB1)	51667	0.001967	N/A	N/A
+87	methyl-CpG binding domain protein 3(MBD3)	53615	0.001907	N/A	N/A
+88	A-kinase anchoring protein 8 like(AKAP8L)	26993	0.001901	N/A	N/A
+89	radical S-adenosyl methionine domain containing 1(RSAD1)	55316	0.00186	N/A	N/A
+90	egl-9 family hypoxia inducible factor 2(EGLN2)	112398	0.001841	5211	Renal cell carcinoma
+91	DExD-box helicase 39B(DDX39B)	7919	0.001839	3040	Spliceosome
+92	damage specific DNA binding protein 2(DDB2)	1643	0.001829	5226	Gastric cancer
+93	PHD finger protein 23(PHF23)	79142	0.001827	N/A	N/A
+94	SAMM50 sorting and assembly machinery component(SAMM50)	25813	0.001816	N/A	N/A
+95	cyclin Pas1/PHO80 domain containing 1(CNPPD1)	27013	0.001811	N/A	N/A
+96	zinc finger protein 384(ZNF384)	171017	0.001734	N/A	N/A
+97	ELMO domain containing 2(ELMOD2)	255520	0.001682	N/A	N/A
+98	hypoxia inducible factor 1 alpha subunit(HIF1A)	3091	0.00168	5235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+99	ceramide synthase 4(CERS4)	79603	0.001652	4071	Sphingolipid signaling pathway
+100	interferon regulatory factor 3(IRF3)	3661	0.001644	5203	Viral carcinogenesis
